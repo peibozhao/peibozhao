@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm ZhaoPeibo. 👏
 
-<!--
-**peibozhao/peibozhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
+- Email: peibozhao@163.com
+- Website: [peibozhao](https://peibozhao.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills:
+- C++
+- Python
+- Shell
+- Cuda
+- Linux
+- ...
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peibozhao&show_icons=true)
+
